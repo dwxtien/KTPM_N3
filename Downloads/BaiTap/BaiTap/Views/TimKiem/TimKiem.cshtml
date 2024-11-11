@@ -1,0 +1,8 @@
+﻿@model IEnumerable<BaiTap.Models.SanPham>
+
+@{
+    ViewBag.Title = "TimKiem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>san pham tim duoc</h2>
+@Html.Partial("GiaoDien", Model)

@@ -1,0 +1,32 @@
+﻿.navbar-navs {
+    margin-left: auto; /* Aligns the nav items to the right */
+}
+
+.nav-items {
+    margin: 0 10px; /* Adds some space between nav items */
+}
+
+.dropdown-menus {
+    min-width: 150px; /* Sets a minimum width for dropdown */
+}
+
+.dropdown-items {
+    color: #333; /* Text color for dropdown items */
+}
+
+    .dropdown-items:hover {
+        background-color: #f8f9fa; /* Light background on hover */
+        color: #007bff; /* Change text color on hover */
+    }
+
+.nav-links {
+    color: #007bff; /* Default link color */
+}
+
+    .nav-links:hover {
+        color: #0056b3; /* Darker color on hover */
+    }
+
+.dropdown-toggles::after {
+    display: none; /* Hides the default dropdown arrow */
+}

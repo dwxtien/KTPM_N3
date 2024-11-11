@@ -1,0 +1,667 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoang\\Downloads\\BaiTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|c:\\users\\hoang\\downloads\\baitap\\baitap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\content\\assets\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\content\\assets\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\taikhoan\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\taikhoan\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\models\\phieunhapkhoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\models\\phieunhapkhoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\controllers\\quanlytonkhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\controllers\\quanlytonkhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\taikhoan\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\taikhoan\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\models\\account_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\models\\account_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\danhmuc\\dsdanhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\danhmuc\\dsdanhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\quanlytonkho\\sanphamtonkho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\quanlytonkho\\sanphamtonkho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\controllers\\hangsxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\controllers\\hangsxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\taikhoan\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\taikhoan\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\models\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\models\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\models\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\models\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\models\\chitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\models\\chitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\quanlytonkho\\nhapkho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\quanlytonkho\\nhapkho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\quanlytonkho\\nhap1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\quanlytonkho\\nhap1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\quanlytonkho\\nhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\quanlytonkho\\nhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\shared\\giaodien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\shared\\giaodien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\quanlysanpham\\sua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\quanlysanpham\\sua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\quanlysanpham\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\quanlysanpham\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\timkiem\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\timkiem\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\content\\assets\\css\\stylelocsp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\content\\assets\\css\\stylelocsp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\timkiem\\locsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\timkiem\\locsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\quanlysanpham\\dschitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\quanlysanpham\\dschitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\hangsx\\dshangsx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\hangsx\\dshangsx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|C:\\Users\\hoang\\Downloads\\BaiTap\\baitap\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B32280-47D5-48CC-A8A6-E6822AB3563D}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T03:57:14.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "navbar.css",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Content\\assets\\css\\navbar.css",
+              "RelativeDocumentMoniker": "BaiTap\\Content\\assets\\css\\navbar.css",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Content\\assets\\css\\navbar.css",
+              "RelativeToolTip": "BaiTap\\Content\\assets\\css\\navbar.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-11T09:09:36.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Signin.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TaiKhoan\\Signin.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\TaiKhoan\\Signin.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TaiKhoan\\Signin.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\TaiKhoan\\Signin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:37:53.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TaiKhoan\\Login.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\TaiKhoan\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TaiKhoan\\Login.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\TaiKhoan\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:29:14.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "account_user.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\account_user.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Models\\account_user.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\account_user.cs",
+              "RelativeToolTip": "BaiTap\\Models\\account_user.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:13:29.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KhuyenMai.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\KhuyenMai.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Models\\KhuyenMai.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\KhuyenMai.cs",
+              "RelativeToolTip": "BaiTap\\Models\\KhuyenMai.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:31:59.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\KhachHang.cs",
+              "RelativeToolTip": "BaiTap\\Models\\KhachHang.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:31:55.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Models\\DonHang.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\DonHang.cs",
+              "RelativeToolTip": "BaiTap\\Models\\DonHang.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:31:53.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Hang.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\Hang.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Models\\Hang.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\Hang.cs",
+              "RelativeToolTip": "BaiTap\\Models\\Hang.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:31:50.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChiTietSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\ChiTietSanPham.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Models\\ChiTietSanPham.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\ChiTietSanPham.cs",
+              "RelativeToolTip": "BaiTap\\Models\\ChiTietSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:31:49.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\Admin.cs",
+              "RelativeToolTip": "BaiTap\\Models\\Admin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:31:46.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Models\\Model1.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\Model1.cs",
+              "RelativeToolTip": "BaiTap\\Models\\Model1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:31:31.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GiaoDien.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Shared\\GiaoDien.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\Shared\\GiaoDien.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Shared\\GiaoDien.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\Shared\\GiaoDien.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T07:03:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DSChiTiet.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLySanPham\\DSChiTiet.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\QuanLySanPham\\DSChiTiet.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLySanPham\\DSChiTiet.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\QuanLySanPham\\DSChiTiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T07:52:18.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyTonKhoController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\QuanLyTonKhoController.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Controllers\\QuanLyTonKhoController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\QuanLyTonKhoController.cs",
+              "RelativeToolTip": "BaiTap\\Controllers\\QuanLyTonKhoController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:48:24.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "BaiTap\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:57:37.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "styleLocSP.css",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Content\\assets\\css\\styleLocSP.css",
+              "RelativeDocumentMoniker": "BaiTap\\Content\\assets\\css\\styleLocSP.css",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Content\\assets\\css\\styleLocSP.css",
+              "RelativeToolTip": "BaiTap\\Content\\assets\\css\\styleLocSP.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-11T07:06:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLySanPham\\SanPham.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\QuanLySanPham\\SanPham.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLySanPham\\SanPham.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\QuanLySanPham\\SanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T06:05:35.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "nhap1.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLyTonKho\\nhap1.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\QuanLyTonKho\\nhap1.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLyTonKho\\nhap1.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\QuanLyTonKho\\nhap1.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T03:16:11.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SanPhamTonKho.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLyTonKho\\SanPhamTonKho.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\QuanLyTonKho\\SanPhamTonKho.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLyTonKho\\SanPhamTonKho.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\QuanLyTonKho\\SanPhamTonKho.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAewFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T12:26:15.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "nhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLyTonKho\\nhap.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\QuanLyTonKho\\nhap.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLyTonKho\\nhap.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\QuanLyTonKho\\nhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T17:03:30.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NhapKho.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLyTonKho\\NhapKho.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\QuanLyTonKho\\NhapKho.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLyTonKho\\NhapKho.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\QuanLyTonKho\\NhapKho.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAkwMQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T12:41:48.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhieuNhapKhoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\PhieuNhapKhoViewModel.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Models\\PhieuNhapKhoViewModel.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Models\\PhieuNhapKhoViewModel.cs",
+              "RelativeToolTip": "BaiTap\\Models\\PhieuNhapKhoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:37:47.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LocSP.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TimKiem\\LocSP.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\TimKiem\\LocSP.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TimKiem\\LocSP.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\TimKiem\\LocSP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T11:30:35.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TimKiem.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TimKiem\\TimKiem.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\TimKiem\\TimKiem.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TimKiem\\TimKiem.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\TimKiem\\TimKiem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T11:30:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimKiemController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\TimKiemController.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Controllers\\TimKiemController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\TimKiemController.cs",
+              "RelativeToolTip": "BaiTap\\Controllers\\TimKiemController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:19:57.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QuanLySanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Controllers\\QuanLySanPhamController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeToolTip": "BaiTap\\Controllers\\QuanLySanPhamController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:30:46.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Sua.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLySanPham\\Sua.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\QuanLySanPham\\Sua.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\QuanLySanPham\\Sua.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\QuanLySanPham\\Sua.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwG4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T03:55:56.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DsDanhMuc.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\DanhMuc\\DsDanhMuc.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\DanhMuc\\DsDanhMuc.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\DanhMuc\\DsDanhMuc.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\DanhMuc\\DsDanhMuc.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAADwv0MAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T10:55:06.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhMucController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\DanhMucController.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Controllers\\DanhMucController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\DanhMucController.cs",
+              "RelativeToolTip": "BaiTap\\Controllers\\DanhMucController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:54:05.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DSHangsx.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\HangSX\\DSHangsx.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\HangSX\\DSHangsx.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\HangSX\\DSHangsx.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\HangSX\\DSHangsx.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T10:51:30.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HangSXController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\HangSXController.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Controllers\\HangSXController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\HangSXController.cs",
+              "RelativeToolTip": "BaiTap\\Controllers\\HangSXController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:50:30.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T07:22:22.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T07:15:30.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Web.config",
+              "RelativeDocumentMoniker": "BaiTap\\Web.config",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Web.config",
+              "RelativeToolTip": "BaiTap\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-06T04:28:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "BaiTap\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "BaiTap\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:25:27.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:16:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:03:48.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "BaiTap\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "BaiTap\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:03:34.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\BaiTap\\BaiTap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiTap\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:57:20.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

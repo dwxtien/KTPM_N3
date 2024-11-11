@@ -1,0 +1,103 @@
+﻿@model BaiTap.Models.account_user
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center">Đăng nhập</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.username, new { @class = "control-label" })
+                    @Html.EditorFor(model => model.username, new { htmlAttributes = new { @class = "form-control", placeholder = "Nhập tài khoản" } })
+                    @Html.ValidationMessageFor(model => model.username, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.password, new { @class = "control-label" })
+                    @Html.EditorFor(model => model.password, new { htmlAttributes = new { @class = "form-control", placeholder = "Nhập mật khẩu", type = "password" } })
+                    @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" name="RememberMe" id="rememberMe" />
+                        <label class="form-check-label" for="rememberMe">Nhớ tài khoản</label>
+                    </div>
+                </div>
+
+                <div class="form-group text-center">
+                    <input type="submit" value="Đăng nhập" class="btn btn-primary btn-lg" />
+                    @Html.ActionLink("SignIn", "Signin", "TaiKhoan", null, new { @class = "btn btn-secondary btn-lg ml-2" })
+                </div>
+
+                @ViewBag.loginFail
+            </div>
+        </div>
+    </div>
+}
+
+<style>
+    body {
+        background-color: #f8f9fa; /* Màu nền nhẹ nhàng */
+    }
+
+    h2 {
+        margin-bottom: 20px;
+        color: #343a40; /* Màu chữ */
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 18px; /* Kích thước chữ lớn hơn */
+        color: #fff;
+        transition: background-color 0.3s, border-color 0.3s; /* Hiệu ứng chuyển đổi */
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 18px; /* Kích thước chữ lớn hơn */
+        color: #fff;
+        transition: background-color 0.3s, border-color 0.3s; /* Hiệu ứng chuyển đổi */
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #545b62;
+        }
+
+    .form-check-input {
+        width: 1.5em;
+        height: 1.5em;
+        margin-top: 0.3em;
+    }
+
+    .ml-2 {
+        margin-left: 10px; /* Khoảng cách cho nút đăng ký */
+    }
+
+    .text-danger {
+        font-size: 14px; /* Kích thước chữ cho thông báo lỗi */
+    }
+</style>
