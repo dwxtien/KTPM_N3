@@ -27,6 +27,7 @@ is divided into following sections:
             </not>
         </condition>
     </fail>
+<<<<<<< HEAD
 	<dependencies>
 	    <!-- Các dependencies khác của bạn -->
 
@@ -59,6 +60,8 @@ is divided into following sections:
 	    </dependency>
 	</dependencies>
 
+=======
+>>>>>>> aabb38d (newww)
     <target depends="test,jar,javadoc" description="Build and test whole project." name="default"/>
     <!-- 
                 ======================

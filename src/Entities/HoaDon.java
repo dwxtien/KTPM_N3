@@ -18,7 +18,11 @@ public class HoaDon implements Serializable{
 
     public int getSoLuong() {
         return SoLuong;
+<<<<<<< HEAD
     } 
+=======
+    }
+>>>>>>> aabb38d (newww)
 
     public double getThanhTien() {
         return ThanhTien;
@@ -62,7 +66,10 @@ public class HoaDon implements Serializable{
 
     public void setSachMua(ArrayList<SachTrongGioHang> SachMua) {
         this.SachMua = SachMua;
+<<<<<<< HEAD
 
+=======
+>>>>>>> aabb38d (newww)
     }
 
     public HoaDon(String MaHD, String NgayGiaoDich, String TenKH, ArrayList<SachTrongGioHang> SachMua, int SoLuong, double ThanhTien) {

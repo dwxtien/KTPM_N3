@@ -10,7 +10,10 @@
 <project name="QLSach" default="default" basedir=".">
     <description>Builds, tests, and runs the project QLSach.</description>
     <import file="nbproject/build-impl.xml"/>
+<<<<<<< HEAD
 	
+=======
+>>>>>>> aabb38d (newww)
     <!--
 
     There exist several targets which are by default empty and which can be 
@@ -71,6 +74,7 @@
     nbproject/build-impl.xml file. 
 
     -->
+<<<<<<< HEAD
 	<dependencies>
 	    <!-- Các dependencies khác của bạn -->
 
@@ -103,4 +107,6 @@
 	    </dependency>
 	</dependencies>
 
+=======
+>>>>>>> aabb38d (newww)
 </project>

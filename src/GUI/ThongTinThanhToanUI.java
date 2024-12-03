@@ -311,8 +311,13 @@ public class ThongTinThanhToanUI extends javax.swing.JFrame {
 	}
 
 	// Variables declaration - do not modify//GEN-BEGIN:variables
+<<<<<<< HEAD
 	private javax.swing.JButton btnConfirm;
 	private javax.swing.JButton btnHuy;
+=======
+	javax.swing.JButton btnConfirm;
+	 javax.swing.JButton btnHuy;
+>>>>>>> aabb38d (newww)
 	private javax.swing.JLabel jLabel10;
 	private javax.swing.JLabel jLabel11;
 	private javax.swing.JLabel jLabel12;
@@ -320,10 +325,18 @@ public class ThongTinThanhToanUI extends javax.swing.JFrame {
 	private javax.swing.JLabel jLabel8;
 	private javax.swing.JLabel jLabel9;
 	private javax.swing.JPanel jPanel1;
+<<<<<<< HEAD
 	private javax.swing.JTextField txtMaHoaDon;
 	private javax.swing.JTextField txtNgayGD;
 	private javax.swing.JTextField txtSoLuong;
 	private javax.swing.JTextField txtTenKH;
 	private javax.swing.JTextField txtThanhTien;
+=======
+	 javax.swing.JTextField txtMaHoaDon;
+	 javax.swing.JTextField txtNgayGD;
+	 javax.swing.JTextField txtSoLuong;
+	 javax.swing.JTextField txtTenKH;
+	 javax.swing.JTextField txtThanhTien;
+>>>>>>> aabb38d (newww)
 	// End of variables declaration//GEN-END:variables
 }
